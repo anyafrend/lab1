@@ -1,2 +1,1 @@
-This is a document with a different line
-Adding more content
+I WANT A CONFLICT(master)
