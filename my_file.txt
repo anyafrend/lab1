@@ -1,1 +1,2 @@
-I want a conflict
+Hello from Github
+This file is changed
